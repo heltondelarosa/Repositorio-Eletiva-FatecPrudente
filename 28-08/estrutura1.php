@@ -12,6 +12,6 @@
             echo "valor menor ou igual a 20";
         }
 
-        include("rodape.php")
+        include("rodape.php");
     ?>
 
